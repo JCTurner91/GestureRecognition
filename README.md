@@ -1,6 +1,6 @@
 # COS-470 Term-Project: Gesture Recognition
 
-Team members: Tomomi Bahun and Joshua Turner
+By: Tomomi Bahun and Joshua Turner
 
 ## Project Description:
 
