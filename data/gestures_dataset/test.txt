@@ -1,0 +1,78 @@
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143303.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/adpDSC_7290.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143255.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092616179.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092143321_HDR.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_34_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_142910.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_07_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_132723892_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210402_17_43_24_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_002118971.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143247.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_10_Pro (3).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092156587_HDR.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001736027_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_132445533.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_173032721.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143221.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_27_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153030618_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001737958.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143207.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_06_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210330_190946460_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_142125740_HDR.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210402_225131611_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153227769.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153148483.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_142632.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_35_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_41_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_18_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/stop.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_41_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_27_Pro (3).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153233417_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001928933.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210402_17_41_58_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_002127018.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_142546.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_10_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210401_173016.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_132528939_HDR.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210402_225147764.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_40_55_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092633252.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/okay.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/dislike.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_142057960.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001658896.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_12_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_24_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153231377_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_40_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092210591.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143249.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_092214442_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001930638_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_173623158.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143209.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153033709_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_173638300.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_34_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_143259.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_142047885_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210403_095206341_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_142948.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210402_17_42_42_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210401_173059.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_153240325.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210420_152758847_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_25_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/IMG_20210421_001847332_MP.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/20210403_142650.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_43_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_40_53_Pro (2).jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210402_22_44_18_Pro.jpg
+/content/drive/Shareddrives/COS-470/Gestures/data/gestures_dataset/images/WIN_20210422_08_41_21_Pro (3).jpg
