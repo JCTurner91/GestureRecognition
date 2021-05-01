@@ -23,6 +23,7 @@ The first step in the process was creating the original dataset. Time was taken 
 
 ## Discussion
 Originally, this project was built around the YOLOv3 architecture, but due to difficulty in both implementation and debugging, the model architecture was switched late in the process to the PyTorch implementation of Faster-RCNN. This complication resulted in a need to completely rebuild our pipeline, as well as to account for annotation format and folder structure in our Faster-RCNN implementation. As a result, the final product is probably not as intuitive as it could be, but the results are greatly improved. One point of current concern is the validation in the training loop, which is inefficent and greatly increases training time. This is due in part to the fact that the validation dataset is processed in batches of only one image, due to difficulty trying to work with the dataloader as opposed to the dataset.
+
 Another key issue is that much of the time committed to the project was actually focused on data collection and annotation, as opposed to actual coding and model fine-tuning. Through the process, the authors have learned a lot about what makes for a good dataset, such as the intended purpose, the amount necessary, and the complexity of the data. However, they also note it's probable experimental results could have been improved should more time have been allocated to the model and pipeline as opposed to the construction of our datasets.
 
 ## Outlooks
