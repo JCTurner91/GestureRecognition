@@ -18,6 +18,9 @@ For the final implementation of this project a [Faster-RCNN](https://arxiv.org/a
 The first step in the process was creating the original dataset. Time was taken to collect a variety of photos and learn the annotation process, and a Python script was written to allow for randomly splitting a dataset into train, test, and validation sets of 70, 20, and 10% respectively. The images and annotations were split into two separate folders (\<dataset\>/images, and \<dataset\>/labels), and the train/test/validation splits were handled by collecting paths to the images into text files at the root \<dataset\> folder. Due to this folder structure, as well as the annotation format used, a custom dataset had to be created to allow for the getting of images and annotations, as well as to convert the standard YOLO format of xywh to xyxy for the bounding boxes as expected by Faster-RCNN. With a new dataset a train/test pipeline could be constructed using the architecture mentioned in the prior section. This pipeline was run over a variety of hyperparameters and it's performance was checked with the utilization of both Adam and SGD optimizers. The final pipeline uses the Adam optimizer with a learning rate of 0.0001 and weight decay of 0.0005, running around just 2 epochs. Validation was added to the training pipeline and both the training and validation curves are plotted once training is complete to aid in checking for over and underfitting. The testing process gathers the predicted bounding boxes for IoU calcuations and then runs those through Non-Maximum Suppression with a threshold of 0.05. The accuracy of the predictions that remain are calculated and a confusion matrix for the accuracy of individual classes is plotted. The ability to visualize the NMS filtered predictions on the image was also added to help in visualizing model progress.
 
 ## Experimental Validation and Results
+### Experimental Validation
+
+### Results
 
 ## Conclusion
 
