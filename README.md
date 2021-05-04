@@ -19,7 +19,8 @@ The first step in the process was creating the original dataset. Time was taken 
 ### Augmentation
 In order to diversify the training dataset, the authors utilized image augmentation. [Albumentations](https://albumentations.ai/) was chosen because it fits in our pipeline well and supports yolo annotation format. The transformation pattern includes horizontal flip, median blur and contrast.
 
-## Experimental Validation and Results
+## Results
+![image](https://user-images.githubusercontent.com/54905220/117006901-fd61c300-acb6-11eb-91cf-71b1410ee8c6.png)
 
 ## Conclusion
 The model demonstrated that it is capable to recognize hand gestures based on a relatively small dataset. It also performed well with both simple and complex datasets. The model achieved high classification accuracy (77 – 95%), while there is more room for improvement in terms of object detection. The average IoU was between 0.422 and 0.657. One possible solution to improve object detection could be to find out how the Average IoU calculation is done internally with PyTorch.
