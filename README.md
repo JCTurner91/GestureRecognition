@@ -33,6 +33,8 @@ Another key issue is that much of the time committed to the project was actually
 
 Lastly, it's worth noting some issues existing in the current implementation. The augmentations appear to fail for specific examples in the second (advanced) dataset, but only with ones in which the bounding box would need to also be augmented. Also, the current NMS filtering is very strict, only accepting bounding boxes with IoUs of 0.95 or higher. This was done specifically to focus on classification accuracy, but the authors note it ignores the classification error that would occur in the majory of predictions that end up dropped by this filter. That's why we also included the IoU metric in results.
 
+NOTE: The original YOLOv3 implementation notebooks has been left for reference but are not operational.
+
 ## Outlooks
 
 ### Potential Improvments
